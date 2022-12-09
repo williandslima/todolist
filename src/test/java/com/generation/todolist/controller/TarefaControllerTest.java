@@ -15,7 +15,6 @@ import org.springframework.http.HttpMethod;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 
-import com.generation.blogpessoal.model.Usuario;
 import com.generation.todolist.model.Tarefa;
 import com.generation.todolist.repository.TarefaRepository;
 
